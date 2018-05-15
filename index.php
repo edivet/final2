@@ -51,6 +51,8 @@ $conn = dbConnect();
     </head>
     <body>
         <h1>Login</h1>
+        <p> <a href="https://github.com/edivet/final2">Link to github</a></p>
+        <p> <a href="https://github.com/edivet/final2">Link to Heroku</a></p>
         <div id="Login">
             <p>Use admin and admin</p>
        
